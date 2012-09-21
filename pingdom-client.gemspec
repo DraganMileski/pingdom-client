@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.version = "0.0.6.alpha"
   
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Matt Todd"]
-  s.date = %q{2011-03-02}
+  s.authors = ["Dragan Mileski"]
+  s.date = %q{2012-09-21}
   s.description = %q{Pingdom Ruby Client}
   s.email = %q{dragan.mileski@gmail.com}
   s.files = [
@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/DraganMileski/pingdom-client}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.7}
+  s.rubygems_version = %q{1.8.24}
   s.summary = %q{Pingdom Ruby Client}
   s.test_files = [
     "spec/spec_helper.rb",
